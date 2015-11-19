@@ -1,0 +1,6 @@
+framework module Pods_fun_budgetTests {
+  umbrella header "Pods-fun_budgetTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
