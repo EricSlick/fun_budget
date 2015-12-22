@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		28C311901C030E6800979148 /* images in Resources */ = {isa = PBXBuildFile; fileRef = 28C3118F1C030E6800979148 /* images */; };
 		28E3CE061BFD7C1F00EC3801 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E3CE051BFD7C1F00EC3801 /* AppDelegate.swift */; };
 		28E3CE081BFD7C1F00EC3801 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E3CE071BFD7C1F00EC3801 /* RootViewController.swift */; };
 		28E3CE0A1BFD7C1F00EC3801 /* DataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28E3CE091BFD7C1F00EC3801 /* DataViewController.swift */; };
@@ -39,6 +40,7 @@
 
 /* Begin PBXFileReference section */
 		04227A634B1E5B73CAE1A398 /* Pods.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		28C3118F1C030E6800979148 /* images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = images; sourceTree = "<group>"; };
 		28E3CE021BFD7C1F00EC3801 /* fun_budget.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fun_budget.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		28E3CE051BFD7C1F00EC3801 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		28E3CE071BFD7C1F00EC3801 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 		28E3CDF91BFD7C1F00EC3801 = {
 			isa = PBXGroup;
 			children = (
+				28C3118F1C030E6800979148 /* images */,
 				28E3CE371BFD814300EC3801 /* Podfile */,
 				28E3CE041BFD7C1F00EC3801 /* fun_budget */,
 				28E3CE1D1BFD7C1F00EC3801 /* fun_budgetTests */,
@@ -266,6 +269,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28C311901C030E6800979148 /* images in Resources */,
 				28E3CE141BFD7C1F00EC3801 /* LaunchScreen.storyboard in Resources */,
 				28E3CE111BFD7C1F00EC3801 /* Assets.xcassets in Resources */,
 				28E3CE381BFD814300EC3801 /* Podfile in Resources */,
